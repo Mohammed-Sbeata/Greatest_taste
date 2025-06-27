@@ -33,11 +33,10 @@ To create an interactive, user-friendly platform where users can:
    ```bash
    git clone https://github.com/your-username/Greatest_taste.git
    cd Greatest_taste
-```
 2. **Open the Project**
    Open index.html directly in your browser or use a live server extension in VS Code.
 
-**🔍 Features**
+**🔍 Features:**
 - 🍱 Browse a variety of delicious dishes
 
 - 🧾 View ingredients and step-by-step cooking instructions
@@ -49,6 +48,8 @@ To create an interactive, user-friendly platform where users can:
 - 📱 Fully responsive for mobile and desktop
 
 **📷 Screenshots**
+
+
    Add screenshots here if available, such as:
 
 - Home page
@@ -57,7 +58,7 @@ To create an interactive, user-friendly platform where users can:
 
 - Recipe details
 
-**📦 Future Improvements**
+**📦 Future Improvements:**
 - Add user login & saved recipes
 
 - Integrate more APIs or allow user submissions
@@ -66,9 +67,17 @@ To create an interactive, user-friendly platform where users can:
 
 - Enable sharing on social media
 
+
+
 **📄 License**
+
+
 This project is licensed under the MIT License.
 
+
+
 **👨‍🍳 Author**
+
+
    Developed with passion for food and code by [MohammedSbeata]
    Feel free to fork, use, or contribute to the project.
